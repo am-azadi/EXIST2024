@@ -30,4 +30,4 @@ The EXIST 2024 dataset is composed of more than 10,000 tweets in English and Spa
 
 ## Results
 
-Our approach using XLM-RoBERTa achieved 4th place in the soft-soft evaluation of Task 1 (sexism identification) and 2nd place in the soft-soft evaluation of Task 2 (source intention). Detailed results and performance metrics are provided in the paper(https://arxiv.org/abs/2406.07287).
+Our approach using XLM-RoBERTa achieved 4th place in the soft-soft evaluation of Task 1 (sexism identification) and 2nd place in the soft-soft evaluation of Task 2 (source intention). Detailed results and performance metrics are provided in the [paper](https://ceur-ws.org/Vol-3740/paper-89.pdf).
